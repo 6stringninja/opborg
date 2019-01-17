@@ -1,0 +1,16 @@
+{
+    "config": {
+        "all": {
+            "test": 1
+        },
+        "web": {
+            "port": 3000
+        },
+        "server": {
+            "test": 3
+        },
+        "client": {
+            "test": 4
+        }
+    }
+}
